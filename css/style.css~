@@ -1,0 +1,11 @@
+header {
+	text-align:center;
+}
+
+h1{
+	font-size:100px;
+}
+
+#cover{
+	width: 20%:
+}
